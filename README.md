@@ -1,4 +1,4 @@
-Digital-Marketing-Task-2-Canva
+# Digital-Marketing-Task-2-Canva
 
 Canva templates for digital marketing
 
